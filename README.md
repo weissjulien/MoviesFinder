@@ -1,1 +1,2 @@
-https://vigilant-goldfish-ppx9pp647gjh96pw-8501.app.github.dev
+Launch with:
+cd /workspaces/MoviesFinder && streamlit run app.py --server.port=8501 --server.address=0.0.0.0
