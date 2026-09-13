@@ -1,0 +1,8 @@
+
+# Streamlit secrets - NEVER commit API keys!
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
